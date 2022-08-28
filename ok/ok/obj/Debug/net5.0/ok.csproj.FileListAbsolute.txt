@@ -1,0 +1,16 @@
+/home/escavalier/Music/ggwp/ok/ok/bin/Debug/net5.0/ok
+/home/escavalier/Music/ggwp/ok/ok/bin/Debug/net5.0/ok.deps.json
+/home/escavalier/Music/ggwp/ok/ok/bin/Debug/net5.0/ok.runtimeconfig.json
+/home/escavalier/Music/ggwp/ok/ok/bin/Debug/net5.0/ok.runtimeconfig.dev.json
+/home/escavalier/Music/ggwp/ok/ok/bin/Debug/net5.0/ok.dll
+/home/escavalier/Music/ggwp/ok/ok/bin/Debug/net5.0/ref/ok.dll
+/home/escavalier/Music/ggwp/ok/ok/bin/Debug/net5.0/ok.pdb
+/home/escavalier/Music/ggwp/ok/ok/obj/Debug/net5.0/ok.csproj.AssemblyReference.cache
+/home/escavalier/Music/ggwp/ok/ok/obj/Debug/net5.0/ok.GeneratedMSBuildEditorConfig.editorconfig
+/home/escavalier/Music/ggwp/ok/ok/obj/Debug/net5.0/ok.AssemblyInfoInputs.cache
+/home/escavalier/Music/ggwp/ok/ok/obj/Debug/net5.0/ok.AssemblyInfo.cs
+/home/escavalier/Music/ggwp/ok/ok/obj/Debug/net5.0/ok.csproj.CoreCompileInputs.cache
+/home/escavalier/Music/ggwp/ok/ok/obj/Debug/net5.0/ok.dll
+/home/escavalier/Music/ggwp/ok/ok/obj/Debug/net5.0/ref/ok.dll
+/home/escavalier/Music/ggwp/ok/ok/obj/Debug/net5.0/ok.pdb
+/home/escavalier/Music/ggwp/ok/ok/obj/Debug/net5.0/ok.genruntimeconfig.cache

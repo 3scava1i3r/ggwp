@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/escavalier/.dotnet/store/|arch|/|tfm|",
+      "/home/escavalier/.nuget/packages"
+    ]
+  }
+}
